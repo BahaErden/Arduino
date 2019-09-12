@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for CNCshield
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CNCshield	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pinSetup	KEYWORD2
+StepX	KEYWORD2
+StepY	KEYWORD2
+StepZ	KEYWORD2
+stepsON	KEYWORD2
+stepsOFF	KEYWORD2
+XdirRight	KEYWORD2
+XdirLeft	KEYWORD2
+YdirRight	KEYWORD2
+YdirLeft	KEYWORD2
+ZdirRight	KEYWORD2
+ZdirLeft	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
